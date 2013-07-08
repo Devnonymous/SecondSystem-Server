@@ -25,7 +25,7 @@ arrays
 >>Basic accounts system logged to IP and usernames
 >Build basic support for terrain generation by simulating Astral
 >>Build basic skybox generation implementation
->>Test client-server interaction using placeholder models and free 
+\>>Test client-server interaction using placeholder models and free 
 movement
 
 >???
@@ -35,8 +35,7 @@ movement
 ============
 
 Legal Stuff
-
-===========
+--------------
 
 This software is economically free to use, as >implied by the 
 open-source 
