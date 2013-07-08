@@ -1,3 +1,4 @@
+
 SecondSystem-Server
 ===================
 
@@ -14,11 +15,10 @@ world in order to reduce exploits. Lastly, extensibility must be
 considered in order to compensate for the extremely taxing 
 responsibility of computing an evolving planet simulation.
 
-=================
 
 >##TODOs
 >Establish UDP connection between SS-S and the C/C++ client
->>Test transmission lag for SSL implementations to speculate feasability
+>>Test transmission lag for SSL implementations to speculate feasibility
 >>Build pseudo-IRC using a library for converting text to UDP-friendly arrays
 >>Basic accounts system logged to IP and usernames
 >Build basic support for terrain generation by simulating Astral
@@ -33,6 +33,6 @@ responsibility of computing an evolving planet simulation.
 Legal Stuff
 --------------
 
-This software is economically free to use, as >implied by the 
-open-source nature of GitHub. 
+This software is economically free to use, as >implied by the open-source nature of GitHub. Libre wise, this is under the Mozzilla Public License 2.0 (MPL-2), all I ask is that you inform me of any derivations of the work through email, however you are not legally obliged to.
 
+Email in case GitHub eats it: Devnonymous@lavabit.com
