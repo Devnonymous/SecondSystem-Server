@@ -16,28 +16,23 @@ responsibility of computing an evolving planet simulation.
 
 =================
 
-TODOs
+>##TODOs
 >Establish UDP connection between SS-S and the C/C++ client
->>Test transmission lag for SSL implementations to speculate 
-feasability
->>Build pseudo-IRC using a library for converting text to UDP-friendly 
-arrays
+>>Test transmission lag for SSL implementations to speculate feasability
+>>Build pseudo-IRC using a library for converting text to UDP-friendly arrays
 >>Basic accounts system logged to IP and usernames
 >Build basic support for terrain generation by simulating Astral
 >>Build basic skybox generation implementation
-\>>Test client-server interaction using placeholder models and free 
-movement
+>>Test client-server interaction using placeholder models and free movement
 
 >???
 
 >Profit
 
-============
 
 Legal Stuff
 --------------
 
 This software is economically free to use, as >implied by the 
-open-source 
-nature of GitHub. 
+open-source nature of GitHub. 
 
