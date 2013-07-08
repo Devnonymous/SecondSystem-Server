@@ -33,6 +33,6 @@ responsibility of computing an evolving planet simulation.
 Legal Stuff
 --------------
 
-This software is economically free to use, as >implied by the open-source nature of GitHub. Libre wise, this is under the Mozzilla Public License 2.0 (MPL-2), all I ask is that you inform me of any derivations of the work through email, however you are not legally obliged to.
+This software is economically free to use, as >implied by the open-source nature of GitHub. Libre wise, this is under the Mozilla Public License 2.0 (MPL-2), all I ask is that you inform me of any derivations of the work through email, however you are not legally obliged to.
 
 Email in case GitHub eats it: Devnonymous@lavabit.com
