@@ -5,7 +5,7 @@ SecondSystem-Server
 The LISP backend to SecondSystem.
 
 The function of SS-S is to compute the evolution of a SecondSystem 
-world(s) and interpret player actions, while sending optimised data to 
+world(s) and respond to player actions while sending optimised data to 
 the client to render and interpret.
 
 The objective of SS-S first and foremost is flexibility. SS-S is 
@@ -16,18 +16,18 @@ considered in order to compensate for the extremely taxing
 responsibility of computing an evolving planet simulation.
 
 
->##TODOs
->Establish UDP connection between SS-S and the C/C++ client
->>Test transmission lag for SSL implementations to speculate feasibility
->>Build pseudo-IRC using a library for converting text to UDP-friendly arrays
->>Basic accounts system logged to IP and usernames
->Build basic support for terrain generation by simulating Astral
->>Build basic skybox generation implementation
->>Test client-server interaction using placeholder models and free movement
+##TODOs
+Establish UDP connection between SS-S and the C/C++ client
+Test transmission lag for SSL implementations to speculate feasibility
+Build pseudo-IRC using a library for converting text to UDP-friendly arrays
+Basic accounts system logged to IP and usernames
+Build basic support for terrain generation by simulating Astral
+Build basic skybox generation implementation
+Test client-server interaction using placeholder models and free movement
 
->???
+???
 
->Profit
+Profit
 
 
 Legal Stuff
